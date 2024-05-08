@@ -1,5 +1,5 @@
 ### Hello there
-👋 Hello! I'm Sofonias Bedlu, a seasoned Software Engineer with a deep passion for backend development. 💻 My journey as an Electrical Engineer has uniquely shaped my approach to crafting efficient and innovative software solutions.
+👋 Hello! I'm Sofonias Bedlu, a seasoned Software Engineer with a deep passion for backend development.
 
 🚀 Specialized in backend engineering, I excel in designing, developing, and optimizing the powerful gears that drive applications. From architecting resilient APIs to fine-tuning database performance, I love the intricacies of building robust systems.
 
@@ -16,19 +16,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on python
-- 🌱 I’m currently learning ..
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 - 🔭 I’m currently working on python
-- 🌱 I’m currently learning nodejs
-- 📫 How to reach me: linkden
 - 😄 Pronouns: He
 
 

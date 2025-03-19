@@ -40,8 +40,7 @@ Here are some of the projects I'm proud of:
 ---
 
 ### 📊 GitHub Stats  
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sofibedlu&show_icons=true&theme=radical)](https://github.com/sofibedlu)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sofibedlu&layout=compact&theme=radical)](https://github.com/sofibedlu)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bedlusofi@gmail.com&layout=compact&theme=radical)
 
 ---
 

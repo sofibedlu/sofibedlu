@@ -1,24 +1,70 @@
-### Hello there
-👋 Hello! I'm Sofonias Bedlu, a seasoned Software Engineer with a deep passion for backend development.
+### Hi there 👋, I'm Sofonias  
+#### Software Engineer | Back-End Developer | DevOps Enthusiast | Odoo Developer
 
-🚀 Specialized in backend engineering, I excel in designing, developing, and optimizing the powerful gears that drive applications. From architecting resilient APIs to fine-tuning database performance, I love the intricacies of building robust systems.
+Welcome to my GitHub profile! I'm passionate about building scalable, efficient, and secure back-end systems, automating workflows, and exploring cutting-edge technologies. Here, you'll find a collection of my projects, contributions, and experiments. Feel free to explore, collaborate, or reach out!  
 
-⌨️ My coding journey is a tapestry woven with languages like Python, JavaScript, and C, frameworks like Flask, Django, Express and tools like Docker. But beyond the syntax, I'm devoted to writing clean, maintainable code that stands the test of scale.
+---
 
-🌐 In a world thriving on digital interactions, I find my purpose in ensuring smooth, secure, and seamless user experiences. Each challenge I tackle is an opportunity to marry engineering prowess with real-world impact.
+### 🛠️ Technologies & Tools  
+Here are some of the technologies and tools I work with:  
 
-📚 When I'm not knee-deep in code, you might find me exploring the latest tech trends, diving into sci-fi novels, or perhaps enjoying a hike in the great outdoors. Lifelong learning is my mantra, and I'm excited to stay at the forefront of technological evolution.
+- **Languages:** Python, TypeScript, JavaScript, Bash, C  
+- **Frameworks:** Django, Flask, Express, Node.js, React  
+- **Databases:** PostgreSQL, MySQL, MongoDB  
+- **DevOps Tools:** GitHub Actions, Jenkins, Kubernetes, Docker, Docker Compose  
+- **ERP Development:** Odoo ERP  
+- **CMS:** WordPress  
+- **Other Tools:** Proxmox Mail Gateway, ISPConfig, Nextcloud, Jasmin SMS Gateway  
 
-📬 I'm always open to interesting discussions and collaboration. Let's connect and together transform lines of code into transformative solutions.
+---
 
-<!--
-**sofibedlu/sofibedlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Featured Projects  
+Here are some of the projects I'm proud of:  
 
-Here are some ideas to get you started:
+#### 1. Odoo ERP Customization  
+- Developed custom modules for Odoo ERP to automate business workflows and improve reporting capabilities.  
+- **Tech Stack:** Python, Odoo, PostgreSQL  
 
--->
+#### 2. Microservices-Based E-Commerce Platform  
+- Designed and implemented a scalable e-commerce platform using microservices architecture, Docker, and Kubernetes.  
+- **Tech Stack:** Node.js, Express, MongoDB, Docker, Kubernetes  
 
-- 🔭 I’m currently working on python
-- 😄 Pronouns: He
+#### 3. SMS Gateway Integration  
+- Integrated Jasmin SMS gateway with enterprise systems for automated notifications and communication.  
+- **Tech Stack:** Python, REST APIs, Jasmin  
+
+#### 4. CI/CD Pipeline Automation  
+- Automated deployment pipelines using GitHub Actions and Jenkins for continuous integration and delivery.  
+- **Tech Stack:** GitHub Actions, Jenkins, Docker  
+
+---
+
+### 📊 GitHub Stats  
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sofibedlu&show_icons=true&theme=radical)](https://github.com/YourGitHubUsername)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sofibedlu&layout=compact&theme=radical)](https://github.com/YourGitHubUsername)  
+
+---
+
+### 🌱 What I'm Currently Learning  
+I'm always expanding my skill set! Currently, I'm focusing on:  
+- Advanced Kubernetes and cloud-native technologies   
+- GraphQL and API optimization  
+
+---
+
+### 📫 Let's Connect!  
+I'm always open to collaboration, discussions, or just a friendly chat. Feel free to reach out:  
+- **Email:** bedlusofi@gmail.com  
+- **LinkedIn:** www.linkedin.com/in/sofyb
+
+---
+
+### 📜 Favorite Quote  
+"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – *Martin Fowler*  
+
+---
+
+### 🔍 Explore My Repositories  
+Feel free to check out my repositories below. Don't forget to star ⭐ the ones you like!  
 
 

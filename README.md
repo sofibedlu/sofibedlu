@@ -38,11 +38,12 @@ Here are some of the projects I'm proud of:
 - **Tech Stack:** GitHub Actions, Jenkins, Docker  
 
 ---
-
+<!--
 ### 📊 GitHub Stats  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sofibedlu&layout=compact&theme=radical)
 
 ---
+-->
 
 ### 🌱 What I'm Currently Learning  
 I'm always expanding my skill set! Currently, I'm focusing on:  
